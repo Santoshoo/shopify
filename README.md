@@ -8,12 +8,7 @@ Shoppify is an online E-Commerce Web Application where users can buy electronics
 </table>
 
 
-## Demo Video
-Here is a working demo Video :  
 
-If you want to watch on Youtube : https://youtu.be/7ImLAC6k9NA
-
-https://user-images.githubusercontent.com/75134530/211057998-37ab9e98-61bc-4e0d-a505-e715de0de8f0.mp4
 
 
 ## Site
